@@ -30,7 +30,7 @@ The code repository for Python programmes used for the Final Year Project (FYP).
 
 3. Algorithm1.py: Python programme which contained an enhanced procedure of DeepMod's thresholding (section 5.3.1 of thesis).
 4. Figure31.png: Image of Figure 31 for section 6.1 of the FYP thesis.
-5. LR_expt folder: LR means <u> L </u> asso/ <u> L </u> inear <u>R</u> egression. Python notebook which discusses DeepMod's normalisation issues (section 5.3.2 of thesis).
+5. LR_expt folder: LR means **L**asso/ **L**inear **R**egression. Python notebook which discusses DeepMod's normalisation issues (section 5.3.2 of thesis).
 
 ### Prerequisites
 
