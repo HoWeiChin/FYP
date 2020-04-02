@@ -1,18 +1,19 @@
 # ZB4199 Final Year Project: <br/> Deep Learning and The Diffusion Partial Differential Equation from simulated data of Drosophila embryos.
 
-One Paragraph of project description goes here
+The code repository for Python programmes used for the Final Year Project (FYP).
 
-## Getting Started
+## 
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
+1. Python programming language version: 3.7.4.
+2. Tensorflow version: 1.14.0.
+3. Numpy version: 1.17.5.
+4. Scikit-learn version: 0.22.1.
+5. Pandas version: 1.0.0.
+6. DeepMod (written in Tensorflow, Python): https://github.com/PhIMaL/DeePyMoD. 
 
 ### Installing
 
