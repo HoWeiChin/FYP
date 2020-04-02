@@ -6,9 +6,11 @@ The code repository for Python programmes used for the Final Year Project (FYP).
 
 1. Data_Generating_NoteBooks folder: Python notebooks to generate 2D datasets for DeepMod
 
-   - Diffusion_noisy: Notebook to produce noisy 2D data for Diffusion
+   - **Diffusion_noisy**: Notebook to produce noisy 2D data for Diffusion
    
-   - Diffusion_clean: Notebook to produce clean 2D data for Diffusion
+   - **Diffusion_clean**: Notebook to produce clean 2D data for Diffusion
+   
+   - **Diffusion_Decay_defaultBC**: Notebook to produce clean/noisy 2D data for Diffusion-Decay with default boundary condition as stated in the FYP thesis.
 
 2. DeepMod_Training folder: Python programmes to train Deepmod algorithm
 3. Algorithm1.py: Python programme which contained an enhanced procedure of DeepMod's thresholding.
